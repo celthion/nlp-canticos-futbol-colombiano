@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "fuente": "FanChants",
+    "inventario": [
+      {
+        "club": "Independiente Medellín",
+        "total_declarado": 17,
+        "visibles_indice": 15,
+        "recuperados": 15
+      },
+      {
+        "club": "Deportivo Cali",
+        "total_declarado": 18,
+        "visibles_indice": 15,
+        "recuperados": 14
+      }
+    ],
+    "fallos": [
+      {
+        "club": "Deportivo Cali",
+        "rank": 8,
+        "id": 64,
+        "title": "Dale Verde, Hoy Hay Que Ganar"
+      }
+    ]
+  },
+  "registros": [
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Rojo Vos Sos Mi Vida",
+      "letra_original": "Todos los momentos que viví, Todas las canchas donde te seguí, Aprendí a llevarte en el alma, Medallo vos sos mi vida, Vos me hiciste muy feliz… La policía siempre va, Para las canchas con el Nacional Vamos a Matar a los sureños, A patearles el trasero, Y la vuelta vamos a Dar… Rojo vos sos mi vida, Vos sos la pasión, Solo te pido una cosa, Que salgas otra ves campeón…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/all-moments-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Dale Dale Medellín",
+      "letra_original": "Dale dale Medellín, Hoy te venimos a alentar, Para ser campeón hoy hay que ganar…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/dale-dale-medellin/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Yo Soy del Rojo",
+      "letra_original": "Ole ole ole, Ole ole ole ola, Yo soy del Rojo, Es un sentimiento, No puedo parar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/ole-ole-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Movete Rojo Movete",
+      "letra_original": "Movete Rojo movete, Movete y deja de j*der, Que esta hinchada esta p*ta, hoy no podemos perder...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-1-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Suda la Camiseta",
+      "letra_original": "Suda la camiseta, Como yo en la popular, Juega con toda el alma, Te quiero ver salir campeón...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/sweat-your-shirt-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Jugadores Jugadores",
+      "letra_original": "Jugadores, jugadores, No se lo decimos más, Si no ganan esta tarde, Que problema se va a armar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/players-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "A Ver Si Lo Escuchan",
+      "letra_original": "A ver si lo escuchan, A ver si lo entienden, Nosotros seremos, Un club de la gente... Sueños del balón, Me chupan los huevos, Son los dirigentes, Que roban dinero... Porque Ciro ladrón, Entregas la institución Porque Ciro ladrón La puta que te parió...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/sometimes-you-listen/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Policia Policia",
+      "letra_original": "Policia Policia, Que amargado se te ve, Cuando venís al estadio, Se c*gen a tu mujer…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/police-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Esta Hinchada Se Respeta",
+      "letra_original": "Oh no les da vergüenza, Esta hinchada se respeta... (Repite)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-2-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "El Rojo Va a Salir Campeón",
+      "letra_original": "El rojo va a salir campeón, El rojo va a salir campeón, El dia que se vayan todos esos directivos, dueños del balón... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/reds-will-leave-champions/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Fuera Ciro",
+      "letra_original": "Fuera Ciro, fuera Ciro, Fuera Ciro, fuera Ciro... (Repite)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/out-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Directivos Directivos",
+      "letra_original": "Directivos, directivos, No se lo decimos más, Si nos venden el equipo, Que problema se va a armar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/unknown-medellin/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Esta Es la Diferencia",
+      "letra_original": "Esa es la diferencia, Entre hincha y jugador, Ustedes vienen por dinero, Nosotros por la institución…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/difference/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Para Salir Campeones Hay Que Poner Más Huevos",
+      "letra_original": "Para salir campeones, Hay que poner más huevos, Huevos, Ya vas a ver una barra, Que es la más loca de todas, Que sigue siempre a los Verdes, Yo quiero ganar la copa, Para salir campeones, Hay que poner más huevos Huevos, Para salir campeones, Hay que poner más huevos...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/leave-champions-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU010",
+      "equipo_mencionado_fuente": "Independiente Medellín",
+      "titulo_referencia": "Que Se Vayan Todos",
+      "letra_original": "Oh que se vayan todos, Que no quede uno solo... (Repite)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-3-in/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "¡Te Quiero Cali!",
+      "letra_original": "¡Olé, olé, olé, olé! ¡Te quiero Cali! ¡Te quiero Cali!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-20/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Dale Dale Verde",
+      "letra_original": "Dale dale dale ve, Dale dale dale ve, Dale dale dale verde, Dale dale ve!",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-8-dc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Siempre Cantando",
+      "letra_original": "Siempre Cantando, Yo Voy Descontrolado, De La Cabeza, Te Sigo a Todos Lados Y No Me Importa, En Que Cancha juguemos Sin Ver Al Cali, Seguro Que Me Muero, Llegan Los Trapos, Llega Esta Banda Loca, Va Caminando, Nunca Pide Custodia, No Como El Rojo, Tampoco Los Cagandos Que No Se Paran, Por Que No Tienen h*evos ¡Dale, Dale, Dale Cali! ¡Hoy Tenemos Que Ganar! ¡Dale, Dale, Dale Cali! ¡La Vuelta Vamos a Dar! ¡Dale, Dale, Dale Cali! ¡Solo Te Pido La Copa! La Hinchada Esta Loca y No Para De Alentar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-5-dc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Dame una Alegría",
+      "letra_original": "¡Vamos, vamos Deportivo! Dame una alegría, quiero ser campeón, Sabes todo lo que siento, Yo te llevo adentro de mi corazón... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-9-dc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "¡El Que No Salta, Se Va a la B!",
+      "letra_original": "¡Y ya lo ve, y ya lo ve! ¡El que no salta, se va a la B!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Te Alentaré Donde Sea",
+      "letra_original": "El Glorioso una enfermedad, Yo lo sigo siempre a donde va, Esta hinchada hoy te vino a ver, Pone h*evos que no podes perder, Te alentaré hasta la muerte, Te alentaré donde sea, Lo único que quiero es ver al Cali campeón, Verlo siempre primero...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-15/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Gritare Fuertemente Cali",
+      "letra_original": "Vas a ser por siempre mi pasion; Mi glorioso te llevo en el corazón; Gritare fuertemente cali hasta la muerte; Entiendes que tu eres mi pasion....",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-17/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Mi Vida y Mi Pasión!",
+      "letra_original": "Cali sos mi vida y mi pasión! Te Llevo en el Corazón, No Puedo Vivir Sin vos ...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-4-dc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Vamos Todos al Carnaval",
+      "letra_original": "Vamos todos al Carnaval, Alentar al Deportivo, Vamos todos al Carnaval, Alentar al Deportivo Vamos con las banderas, los redoblantes y el tambor, Suden la camiseta que este año sales Campeón...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-16/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Esta Noche Me Emborracho",
+      "letra_original": "¡Vamos, dale dale dale Verde! Que tenemos que ganar, Que este Frente no te deja, No te deja de alentar, Vamos este año a dar la vuelta, Te pido de corazón, Sos mi vida, mi locura, Yo te quiero ver campeón, Muchachos, esta noche me emborracho yo, Vamos siempre a todos lados a alentar al campeón...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-14/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Cali Sos una Pasión",
+      "letra_original": "¡Dale, dale Ve! Hoy te vinimos a ver, Locos de la cabeza, Hoy hay que ganar, El Frente va alentar, Y vamos a dar la vuelta, Por que Cali sos una pasión, Que se lleva en el corazón...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-12/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "¡Uruguayo!",
+      "letra_original": "¡Uruguayo! ¡Uruguayo! ¡Uruguayo! ¡Uruguayo!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-21/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Miren al Verde",
+      "letra_original": "¡Miren al Verde, como se mueve! Está saltando el Frente Verde, Se mueve para acá, se mueve para allá, ¡Vamos mi Cali, vamos a ganar!...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-13/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU009",
+      "equipo_mencionado_fuente": "Deportivo Cali",
+      "titulo_referencia": "Daria la Vida",
+      "letra_original": "Todo en mi vida a cambiado, Desde que te conoci, Paso las noches soñando, Y esperando el momento de estar junto a ti, Siempre me muero por verte, Y con el Frente alentar, No somos como las locas, Hinchas del rojo coca que a la B fue a parar CORO, Cantare con todo el alma para vos Eres mi delirio eterno eres mi amor Cantare con todo el alma para vos Eres mi delirio eterno eres mi amor Daria la vida entera, La la la la, Y aunque un día me muera, Hoy te tengo a mi lado, Y soy muy FELIZ...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-1/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    }
+  ]
+}

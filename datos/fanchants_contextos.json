@@ -1,0 +1,824 @@
+{
+  "metadata": {
+    "fuente": "FanChants",
+    "fecha_consulta": "2026-09-01",
+    "registros": 135,
+    "con_contexto": 112,
+    "fallos": []
+  },
+  "registros": [
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/im-green/",
+      "contexto_fuente": "Orgullo verdolaga en Soy del Verde.",
+      "historia_fuente": "Cuando el canto pasa del yo al nosotros, la identidad del club se vuelve cosa de tribu.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/im-green/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/put-more-balls-it/",
+      "contexto_fuente": "Los Verdolagas exigen ganar esta noche.",
+      "historia_fuente": "La repetición del objetivo hace que el canto suene como una orden colectiva a jugadores y tribuna.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/put-more-balls-it/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-5-an/",
+      "contexto_fuente": "Himno de amor eterno de la hinchada verdolaga al Atlético Nacional.",
+      "historia_fuente": "El verdolaga es el apodo del Atlético Nacional por su verde insignia; la hinchada lo usa como bandera de identidad en cada canto.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-5-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/linesman/",
+      "contexto_fuente": "Atlético Nacional carga contra el juez de línea.",
+      "historia_fuente": "Los cantos al arbitraje suelen funcionar por insistencia y volumen más que por complejidad.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/linesman/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/where-are-beggars/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-6-an/",
+      "contexto_fuente": "Declaración simple de orgullo verdolaga.",
+      "historia_fuente": "La frase cambia poco, lo que ayuda a que suene como consigna colectiva.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-6-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-3-an/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-28-an/",
+      "contexto_fuente": "Canto de amor por Atlético Nacional.",
+      "historia_fuente": "La fuerza está en alternar la llamada al equipo con una declaración sentimental corta.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-28-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-25-an/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-19-an/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/between-tears-and-joys/",
+      "contexto_fuente": "Canto verdolaga de lágrimas, alegrías y pasión.",
+      "historia_fuente": "El contraste entre llantos y alegrías resume bien la montaña rusa emocional de la hinchada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/between-tears-and-joys/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-22-an/",
+      "contexto_fuente": "Orgullo antioqueño de la hinchada del Verde en el Atanasio.",
+      "historia_fuente": "El cántico convierte el orgullo antioqueño en grito de tribuna: identidad local, amor por el Verde y respuesta colectiva.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-22-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-10-an/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-23-an/",
+      "contexto_fuente": "Canto sencillo para gritar Vamos Nacional.",
+      "historia_fuente": "Su utilidad está en ser fácil de arrancar en cualquier tramo del partido.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-23-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-14-an/",
+      "contexto_fuente": "Canto de exigencia de los Verdes.",
+      "historia_fuente": "Aunque es corto, el canto funciona como una orden rítmica a jugadores y grada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-14-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-29-an/",
+      "contexto_fuente": "Himno de identidad: \"Yo soy verdolaga... hasta morir\".",
+      "historia_fuente": "El cántico convierte la palabra Verdolaga en declaración total: llevarlo en el alma y repetirlo hasta morir.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-29-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-13-an/",
+      "contexto_fuente": "Los Verdolagas piden otra alegría al equipo.",
+      "historia_fuente": "Funciona como promesa de apoyo y petición al equipo al mismo tiempo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-13-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-8-an/",
+      "contexto_fuente": "Canto de apoyo incondicional de la hinchada del Verde, vaya donde vaya.",
+      "historia_fuente": "El grito \"¡Dale Ve!\" recorre casi todos los cantos del Atlético Nacional; \"Ve\" es la forma corta y cariñosa de Verde.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-8-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-21-an/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/tonight-we-have-win-an/",
+      "contexto_fuente": "Canto de la hinchada del Verde: \"esta noche tenemos que ganar\".",
+      "historia_fuente": "Muchos de estos cantos de aliento son comunes a las hinchadas de Colombia y Argentina, que comparten melodías y formato de tribuna.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/tonight-we-have-win-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-12-an/",
+      "contexto_fuente": "Canto directo para pedir la victoria de Nacional.",
+      "historia_fuente": "La letra nombra a los Verdolagas y convierte la urgencia de ganar en una frase de grada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-12-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-9-an/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-11-an/",
+      "contexto_fuente": "La hinchada del Verde canta el Himno de Antioquia en el Atanasio.",
+      "historia_fuente": "El Himno de Antioquia, conocido como \"El Canto del Antioqueño\", es uno de los himnos regionales más queridos de Colombia, sus versos celebran la libertad y las montañas de Antioquia.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-11-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-7-an/",
+      "contexto_fuente": "Canto de amor constante por Atlético Nacional.",
+      "historia_fuente": "La letra alterna promesa de seguimiento y hambre de copa, por eso suena más largo que un grito de grada común.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-7-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-26-an/",
+      "contexto_fuente": "Declaración de amor de la hinchada: \"Verde, vos sos mi vida\".",
+      "historia_fuente": "El apodo \"Verde\" y el color de la camiseta son el eje de casi toda la simbología del Atlético Nacional y de los cantos de su hinchada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-26-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-17-an/",
+      "contexto_fuente": "Canto verdolaga para mover a la tribuna.",
+      "historia_fuente": "El canto usa una orden corporal sencilla para convertir nervios en movimiento colectivo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-17-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-18-an/",
+      "contexto_fuente": "Canto de impulso para el Verde.",
+      "historia_fuente": "El canto cambia entre vocales largas y una consigna directa, lo que ayuda a mantenerlo vivo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-18-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-2-an/",
+      "contexto_fuente": "Pulla de la hinchada del Verde a su rival de ciudad.",
+      "historia_fuente": "El cántico funciona como burla de ciudad: pregunta, repite y deja que la tribuna complete el golpe contra el rival.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-2-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-15-an/",
+      "contexto_fuente": "Canto que mira hacia Santiago y Andrés.",
+      "historia_fuente": "La letra destaca por ser una mini-escena más que un estribillo genérico.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-15-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-24-an/",
+      "contexto_fuente": "Los Verdes reciben aliento para ganar.",
+      "historia_fuente": "La mención de los Verdes mantiene el canto pegado a la identidad del club.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-24-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-16-an/",
+      "contexto_fuente": "Canto a Juan Pablo Ángel, goleador antioqueño que se hizo campeón en el Verde.",
+      "historia_fuente": "Juan Pablo Ángel debutó y se consagró en Atlético Nacional, donde fue clave en el título de 1994 antes de ser fichado por River Plate en 1998.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-16-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-20-an/",
+      "contexto_fuente": "Canto copero de los Verdes.",
+      "historia_fuente": "El estribillo enlaza la idea de salir campeón con la intensidad que pide la tribuna.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atletico-nacional-chant-20-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-4-an/",
+      "contexto_fuente": "Canto de apoyo centrado en Meli.",
+      "historia_fuente": "El formato olé hace que el nombre entre como parte natural del ritmo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-4-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-27-an/",
+      "contexto_fuente": "Canto de pasión larga por el Verde.",
+      "historia_fuente": "Es más expansivo que un simple dale, porque añade una declaración emocional en la segunda parte.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-27-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-1-an/",
+      "contexto_fuente": "Canto a Macnelly Torres, \"El Mago\", campeón de la Libertadores 2016.",
+      "historia_fuente": "Macnelly Torres ganó múltiples títulos con Atlético Nacional, incluida la Copa Libertadores 2016 bajo la dirección de Reinaldo Rueda.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/atlctico-nacional-chant-1-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/galeano-an/",
+      "contexto_fuente": "La hinchada del Verde corea el nombre de su ídolo Galeano.",
+      "historia_fuente": "Los cantos de un solo nombre, repetido sin parar, son de los más efectivos en las tribunas: bastan dos sílabas para que toda la hinchada se sume.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/galeano-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/frenteria-an/",
+      "contexto_fuente": "Grito repetitivo de los hinchas del Frente.",
+      "historia_fuente": "Su sencillez lo hace útil como canto de arranque o relleno entre canciones más largas.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/frenteria-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/when-i-die-an/",
+      "contexto_fuente": "Himno de identidad verdolaga: \"nací del Verde, y el Verde es felicidad\".",
+      "historia_fuente": "La hinchada de Atlético Nacional se concentra en la tribuna sur del Atanasio Girardot, la zona popular desde donde sale buena parte de estos cantos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/when-i-die-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/come-come-ve-an/",
+      "contexto_fuente": "Ritmo puro de Atlético Nacional para empujar al Verde.",
+      "historia_fuente": "Cuantos menos versos tiene, más fácil es que todo el fondo lo sostenga durante minutos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/come-come-ve-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/heres-your-people-an/",
+      "contexto_fuente": "\"Vayas donde vayas, siempre estaremos\": fidelidad verdolaga al Atlético Nacional.",
+      "historia_fuente": "El cántico usa la palabra Verdolaga como marca de pertenencia: una forma breve de decir que la hinchada estará donde vaya el equipo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/heres-your-people-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/come-ve-come-ve-an/",
+      "contexto_fuente": "Aliento directo del Verde para empujar a Atlético Nacional.",
+      "historia_fuente": "La fuerza del canto está en que casi no necesita letra: el empuje viene de repetir el apodo y la llamada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/come-ve-come-ve-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/youre-going-down-b-an/",
+      "contexto_fuente": "Burla verdolaga sobre el descenso de un rival.",
+      "historia_fuente": "El remate se apoya en repetir una imagen de descenso hasta convertirla en provocación colectiva.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/atletico-nacional-chants/youre-going-down-b-an/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/oh-millos-are-leaving-mfc/",
+      "contexto_fuente": "Millos sale campeón, repetido sin parar.",
+      "historia_fuente": "La estructura es casi toda repetición, pensada para sostenerse fácil en la grada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/oh-millos-are-leaving-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/i-dont-care-about-what-they-say-mfc/",
+      "contexto_fuente": "Millos querido, te sigo a todas partes.",
+      "historia_fuente": "La segunda parte repite la idea de seguir aunque otros hablen.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/i-dont-care-about-what-they-say-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/come-ambassador-one-more-star-mfc/",
+      "contexto_fuente": "Azul en el corazón, otra estrella más.",
+      "historia_fuente": "La primera vez que vio al equipo se convierte en el arranque emocional del canto.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/come-ambassador-one-more-star-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/im-millo-side-mfc/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ill-always-follow-you-mfc/",
+      "contexto_fuente": "Seguir a Millonarios en todas partes.",
+      "historia_fuente": "El canto repite la idea de aguante aunque el resultado no acompañe.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ill-always-follow-you-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ambassador-mfc/",
+      "contexto_fuente": "Embajador repetido como grito de identidad.",
+      "historia_fuente": "Toda la fuerza del canto sale de repetir Embajador.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ambassador-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-2-mfc/",
+      "contexto_fuente": "Desde niño, siempre con los Azules.",
+      "historia_fuente": "El canto cambia de exigencia a memoria personal en la misma letra.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-2-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-1-mfc/",
+      "contexto_fuente": "Orgullo de ser de Millos, jamás cambia.",
+      "historia_fuente": "La palabra jamás abre y resume toda la promesa de fidelidad.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-1-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/tonight-i-will-sing-mfc/",
+      "contexto_fuente": "Esta noche, cantar y ganar.",
+      "historia_fuente": "El canto nombra bombos y redoblantes antes de llegar al pedido de victoria.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/tonight-i-will-sing-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/everybody-filling-cheap-seats/",
+      "contexto_fuente": "Popular llena pidiendo una estrella más.",
+      "historia_fuente": "La popular aparece como el lugar donde la petición de otra estrella toma fuerza.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/everybody-filling-cheap-seats/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/blues-we-are-tough-ones/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/lets-go-goal-mfc/",
+      "contexto_fuente": "Vamos por el gol, una y otra vez.",
+      "historia_fuente": "El canto no necesita más historia que repetir el objetivo: gol.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/lets-go-goal-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ole-ole-ole-millos-mfc/",
+      "contexto_fuente": "Ole para Millos, puro ringtone de grada.",
+      "historia_fuente": "Solo necesita Ole y Millos para funcionar.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ole-ole-ole-millos-mfc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-4-mfc/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-8-mfc/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-come-on-come-on-4/",
+      "contexto_fuente": "¡Vamos León!, el grito más simple y más poderoso del Expreso Rojo.",
+      "historia_fuente": "El León es uno de los apodos más queridos de Independiente Santa Fe, y su uso en los cánticos es constante, desde el pitazo inicial hasta el último minuto en El Campín.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-come-on-come-on-4/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-1/",
+      "contexto_fuente": "Todos los domingos en el Nemesio, el ritual del Primer Campeón.",
+      "historia_fuente": "El Estadio Nemesio Camacho, conocido como El Campín, es el hogar del Santa Fe desde la década de 1940 y tiene capacidad para más de 36.000 espectadores. El apodo 'Primer Campeón' se debe a la conquista del primer título del fútbol profesional colombiano en 1948.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-1/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/popo-8/",
+      "contexto_fuente": "Canto de salto para la hinchada del León.",
+      "historia_fuente": "La estructura poropopo hace que sea fácil de repetir mientras la tribuna salta.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/popo-8/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/forever-3/",
+      "contexto_fuente": "Santa Fe es alegría y pasión, el canto de quien lo siguió siempre.",
+      "historia_fuente": "La letra narra la vida entera de un hincha del Expreso Rojo, desde que conoció al club hasta hoy, haciendo de este uno de los cantos más emotivos del fútbol colombiano.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/forever-3/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/we-want-the-cup-2/",
+      "contexto_fuente": "Santa Fe canta por la copa.",
+      "historia_fuente": "El canto convierte el objetivo de la copa en una ilusión compartida de la banda.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/we-want-the-cup-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-santa-fe/",
+      "contexto_fuente": "Vamos Santa Fe, el fuego interior de la hinchada Albirroja en El Campín.",
+      "historia_fuente": "La expresión 'Santafesote' es un término afectuoso y apasionado que los hinchas usan para dirigirse al equipo en los momentos de máxima exigencia.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-santa-fe/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-los-leones/",
+      "contexto_fuente": "Canto directo para los Leones de Santa Fe.",
+      "historia_fuente": "El plural Leones hace que el canto suene como una llamada a equipo e hinchada juntos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-los-leones/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-4/",
+      "contexto_fuente": "Albirrojo soy, ni la muerte separa a la hinchada del Expreso Rojo.",
+      "historia_fuente": "El canto usa Albirrojo como declaración de pertenencia: colores, hinchada y fidelidad hasta el final.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-4/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/heart-20/",
+      "contexto_fuente": "La gloria no se fue de Santa Fe, el Rojo habla a sus rivales.",
+      "historia_fuente": "El canto habla a los rivales con tono de desafío: la gloria sigue del lado del Rojo, según la voz de la tribuna.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/heart-20/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/independiente-santa-fe-2/",
+      "contexto_fuente": "Canto repetitivo para Independiente Santa Fe.",
+      "historia_fuente": "La repetición del nombre completo refuerza la identidad del club en cada vuelta.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/independiente-santa-fe-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-2/",
+      "contexto_fuente": "Himno de identidad del Expreso Bogotano, cantos de Santa Fe desde pequeño.",
+      "historia_fuente": "El apodo 'Expreso Bogotano' funciona aquí como marca de identidad: una forma rápida de unir club, ciudad y tribuna.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-6/",
+      "contexto_fuente": "Canto del Expreso para Santa Fe.",
+      "historia_fuente": "La letra combina identidad local y promesa de aliento constante.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-6/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-8/",
+      "contexto_fuente": "Santa Fe recibe aliento para ver al León campeón.",
+      "historia_fuente": "El canto une los nombres Rojo y León en una misma llamada de hinchada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-8/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-come-on-15/",
+      "contexto_fuente": "El canto más querido de la hinchada del León, Albirrojo para siempre.",
+      "historia_fuente": "La letra captura los tres pilares de la identidad cardenal: el amor desde la infancia, la fidelidad a muerte y el orgullo de llevar los colores Albirrojos. Por eso la hinchada lo clasifica como Hall of Fame.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-come-on-15/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-3/",
+      "contexto_fuente": "Albirrojo desde la cuna, fidelidad sin explicación al Expreso Rojo.",
+      "historia_fuente": "La expresión 'dar la vuelta' en el fútbol colombiano se refiere a la vuelta olímpica que da el campeón, pedir la vuelta es pedir el título.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-3/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/all-moments-in/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/dale-dale-medellin/",
+      "contexto_fuente": "Aliento directo para que Medellín gane.",
+      "historia_fuente": "El canto usa Medellín y Rojo como señales directas de identidad del DIM.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/dale-dale-medellin/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/ole-ole-in/",
+      "contexto_fuente": "Identidad roja que no se puede parar.",
+      "historia_fuente": "El ole ole abre una declaración simple de pertenencia al Rojo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/ole-ole-in/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-1-in/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/sweat-your-shirt-in/",
+      "contexto_fuente": "Entrega total para sudar la camiseta.",
+      "historia_fuente": "La camiseta funciona como símbolo del esfuerzo que la grada exige.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/sweat-your-shirt-in/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/players-in/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/sometimes-you-listen/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/police-in/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-2-in/",
+      "contexto_fuente": "La hinchada exige respeto.",
+      "historia_fuente": "El canto gira sobre una sola frase de respeto a la hinchada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-2-in/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/reds-will-leave-champions/",
+      "contexto_fuente": "Reclamo contra los directivos del Rojo.",
+      "historia_fuente": "La frase dueños del balón convierte la protesta administrativa en gancho de grada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/reds-will-leave-champions/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/out-in/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/unknown-medellin/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/difference/",
+      "contexto_fuente": "Hinchas por amor, jugadores por dinero.",
+      "historia_fuente": "El contraste hincha y jugador viene directamente de la letra.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/difference/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/leave-champions-in/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-3-in/",
+      "contexto_fuente": "Que se vayan directivos, técnicos y jugadores.",
+      "historia_fuente": "El título resume la idea de barrer con todos los responsables del mal momento.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/independiente-medellin-chants/independiente-medellin-chant-3-in/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-20/",
+      "contexto_fuente": "Te quiero Cali, el amor al Verde en tres palabras.",
+      "historia_fuente": "La combinación del 'olé' universal con la declaración directa de amor al equipo la convierte en una de las canciones más accesibles para nuevos hinchas.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-20/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-8-dc/",
+      "contexto_fuente": "El grito más simple y más potente del Verde.",
+      "historia_fuente": "Su fuerza está en la repetición: cuanto más fuerte y más rápido, más presión mete sobre el rival.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-8-dc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-5-dc/",
+      "contexto_fuente": "Siempre cantando, descontrolado, siguiendo al Cali a todos lados.",
+      "historia_fuente": "El himno describe al hincha del Cali que viaja a todas las canchas, una práctica muy valorada en la cultura del fútbol latinoamericano.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-5-dc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-9-dc/",
+      "contexto_fuente": "Los hinchas piden al Cali una alegría y un título.",
+      "historia_fuente": "La letra convierte la petición de un triunfo en una declaración de amor personal al club, lo que la hace especialmente resonante para los hinchas.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-9-dc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-2/",
+      "contexto_fuente": "El que no salta se va a la B: clásico de las hinchadas colombianas.",
+      "historia_fuente": "La fórmula del salto convierte el canto en gesto colectivo: quien participa se suma al grupo, quien no salta queda del otro lado.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-15/",
+      "contexto_fuente": "Te alentaré donde sea, el himno de los Azucareros a El Glorioso.",
+      "historia_fuente": "'El Glorioso' funciona en la letra como apodo de orgullo: una forma corta de nombrar al Cali y cargar el canto de identidad.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-15/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-17/",
+      "contexto_fuente": "Gritaré fuertemente Cali hasta la muerte, el Glorioso.",
+      "historia_fuente": "'El Glorioso' aparece como grito de pertenencia: el canto lo usa para reforzar el amor por Cali sin contar una historia externa.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-17/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-4-dc/",
+      "contexto_fuente": "Cali sos mi vida, mi pasión y no puedo vivir sin vos.",
+      "historia_fuente": "La brevedad del canto es parte de su fuerza: en pocas palabras condensa años de devoción de los Azucareros.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-4-dc/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-16/",
+      "contexto_fuente": "Vamos todos al carnaval a alentar al Deportivo Cali.",
+      "historia_fuente": "El canto mezcla el aliento futbolístico con la cultura del carnaval y la percusión, algo muy propio de la identidad musical caleña.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-16/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-14/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-12/",
+      "contexto_fuente": "Cali sos una pasión que se lleva en el corazón.",
+      "historia_fuente": "El estribillo mezcla el aliento al equipo con una declaración de amor al club, algo típico de los cantos del Cali que van más allá del simple apoyo táctico.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-12/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-21/",
+      "contexto_fuente": "Un FanChant de apoyo para el uruguayo Ernesto Hernández.",
+      "historia_fuente": "",
+      "fuente_contexto": "https://www.eltiempo.com/archivo/documento/cms-15109815",
+      "referente_contextual": "Ernesto Hernández",
+      "tipo_referente": "jugador",
+      "observacion_contexto": "Contexto visible en la captura aportada por la investigadora; al reconsultar FanChants el 2026-09-01 la frase ya no aparecía. El Tiempo identifica a Ernesto Hernández como arquero uruguayo vinculado al Deportivo Cali."
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-13/",
+      "contexto_fuente": "Miren al Verde moverse, la hinchada del Cali salta entera.",
+      "historia_fuente": "El canto invita al movimiento colectivo en la tribuna, convirtiendo al graderío mismo en parte del espectáculo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-13/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-1/",
+      "contexto_fuente": "Daría la vida por el Cali: delirio eterno, amor eterno.",
+      "historia_fuente": "La letra usa el lenguaje del amor romántico para describir el sentimiento por el club, una tradición poética muy arraigada en el fútbol sudamericano.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportivo-cali-chants/deportivo-cali-chant-1/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/fans-7/",
+      "contexto_fuente": "La hinchada de Once Caldas llega y no para de alentar en Palogrande.",
+      "historia_fuente": "El término \"Muchachos del Honor\" es una forma en la que los hinchas caldenses se autodenominan, reforzando el orgullo de pertenecer a la hinchada de los Albos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/fans-7/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/and-come-on-2/",
+      "contexto_fuente": "Cántico de barra de la hinchada de Once Caldas: no podemos perder.",
+      "historia_fuente": "La letra hace referencia a la hinchada del Once Caldas que acude al estadio para dar su apoyo de forma incondicional, en el mejor estilo de las barras de Colombia.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/and-come-on-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/neighbourhood/",
+      "contexto_fuente": "El grito de gol de la hinchada de Once Caldas en Palogrande.",
+      "historia_fuente": "Los cánticos de gol de este tipo, centrados en el nombre del club, son un rasgo sonoro típico de las hinchadas colombianas que crea una ola de sonido unánime en el estadio.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/neighbourhood/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/come-on-once-caldas/",
+      "contexto_fuente": "El grito de guerra de la hinchada Albo: vamos Once Caldas, a ganar.",
+      "historia_fuente": "Los cánticos con el nombre del club repetido son los primeros que aprende cualquier nuevo hincha y los que más rápido unifican a toda la tribuna en un solo grito.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/come-on-once-caldas/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/ale-ale-ale-oh/",
+      "contexto_fuente": "La hinchada Albo exige ganar para salir campeones con el Once Caldas.",
+      "historia_fuente": "El cántico concentra todo en una exigencia: ganar para salir campeón, sin desviar la energía hacia datos históricos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/ale-ale-ale-oh/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/everywhere-6/",
+      "contexto_fuente": "Canción de la hinchada Albo: el Once Caldas se sigue a todos lados.",
+      "historia_fuente": "La canción captura la esencia del hincha caldense: la fidelidad incondicional por encima de los resultados, temporada tras temporada.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/everywhere-6/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/we-cant-lose-2/",
+      "contexto_fuente": "La barra de Once Caldas le grita al equipo Blanco: movete, no podemos perder.",
+      "historia_fuente": "El término \"Blanco\" en este cántico hace referencia al color blanco de la camiseta del Once Caldas, apodo que dio origen a su nombre popular: los Albos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/we-cant-lose-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/put-your-balls-into-it-5/",
+      "contexto_fuente": "La hinchada exige garra: esta noche Once Caldas tiene que ganar.",
+      "historia_fuente": "Los cánticos de exigencia como este suelen reservarse para los partidos decisivos: finales, clásicos y duelos en la cima de la tabla colombiana.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/put-your-balls-into-it-5/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/moment/",
+      "contexto_fuente": "La barra de norte llega con todo su sentimiento a empujar al Once Caldas.",
+      "historia_fuente": "Las tribunas norte de los estadios latinoamericanos son históricamente el corazón de las barras más apasionadas, el lugar donde se crean los cánticos que luego se extienden a todo el estadio.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/moment/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/once-caldas-chant-1/",
+      "contexto_fuente": "Canción emotiva de la hinchada Albo: gracias por los momentos de gloria.",
+      "historia_fuente": "Las canciones de gratitud y memoria son un rasgo propio de las hinchadas sudamericanas, que transforman la historia del club en una experiencia colectiva y emotiva.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/once-caldas-chant-1/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/come-on-oh-10/",
+      "contexto_fuente": "Cántico de aliento de la hinchada Albo: dale, dale, oh.",
+      "historia_fuente": "Los cánticos rítmicos sin letra fija son los que más fácil prenden en la tribuna: cualquier hincha los puede cantar desde el primer partido.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/come-on-oh-10/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/head-2/",
+      "contexto_fuente": "Local o visitante, la hinchada Albo siempre viene a ver al Once.",
+      "historia_fuente": "Los hinchas caldenses celebran haber visto campeón a su equipo con la memoria viva de los títulos que Once Caldas conquistó en el fútbol colombiano y sudamericano.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/head-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/put-more-heart/",
+      "contexto_fuente": "La hinchada del Once exige más corazón: la camiseta caldense hay que honrarla.",
+      "historia_fuente": "La letra menciona explícitamente \"Esto es el once\" y \"vamos caldense\", convirtiendo este cántico en uno de los más específicos e identificables de la hinchada de Once Caldas.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/put-more-heart/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/oh-come-on-once-come-on/",
+      "contexto_fuente": "Cántico de aliento corto y directo de los hinchas de Once Caldas.",
+      "historia_fuente": "Los cánticos cortos de este tipo son los que más fuerza cogen en las tribunas sudamericanas: pocas palabras, mucho volumen y todo el estadio cantando a la vez.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/oh-come-on-once-come-on/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/much-more/",
+      "contexto_fuente": "Declaración de amor caldense: en las malas, al Once se quiere mucho más.",
+      "historia_fuente": "La frase \"en las malas mucho más\" resume el compromiso de la hinchada de Once Caldas: el amor por el club se mide especialmente en los momentos difíciles, no solo en las victorias.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/once-caldas-chants/much-more/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tonight-we-win/",
+      "contexto_fuente": "Esta noche ganamos: el grito de batalla de los Pijaos en el Murillo.",
+      "historia_fuente": "El cántico anima directamente a los jugadores a salir a la cancha con intensidad, reflejando la cultura de exigencia de la hinchada vinotinto y oro de Ibagué.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tonight-we-win/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/im-made-of-red-wine/",
+      "contexto_fuente": "Declaración de identidad Vinotinto y Oro de los Pijaos.",
+      "historia_fuente": "Vinotinto y Oro aparece como declaración de pertenencia: colores cantados como identidad, locura y pasión por el Tolima.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/im-made-of-red-wine/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/2-100/",
+      "contexto_fuente": "Himno de los Pijaos exigiendo una copa para celebrar.",
+      "historia_fuente": "El cántico no enumera títulos: concentra toda la energía en una sola exigencia, queremos la copa.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/2-100/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/i-want-more-2/",
+      "contexto_fuente": "Los Pijaos le dicen al Vinotinto: cada día te quiero más.",
+      "historia_fuente": "El término 'Vinotinto' como apelativo de los colores del equipo aparece en múltiples cánticos del Deportes Tolima, convirtiendo el color en una identidad completa.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/i-want-more-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tolima-passion/",
+      "contexto_fuente": "Declaración de amor incondicional de la hinchada del Tolima.",
+      "historia_fuente": "El cántico usa el verbo 'venir a alentar' que es el corazón de la cultura del aguante en el fútbol colombiano: la hinchada que viaja y sufre junto al equipo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tolima-passion/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tonight-7/",
+      "contexto_fuente": "Vamos muchachos, esta noche tenemos que ganar.",
+      "historia_fuente": "La simplicidad de este cántico es su fortaleza: pocas palabras que toda la hinchada puede corear al unísono sin importar la edad o el barrio.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tonight-7/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/they-were-good/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/revolution-2/",
+      "contexto_fuente": "El que no salte no está en la revolución Pijao.",
+      "historia_fuente": "El grito 'el que no salte no está en la revolución' es una variante regional del clásico cántico de salto del fútbol latinoamericano, adaptado con el término 'revolución' que también es parte de la identidad del hincha del Tolima.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/revolution-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/we-have-to-win-5/",
+      "contexto_fuente": "El Vino Tinto tiene que ganar hoy, exige la hinchada Pijao.",
+      "historia_fuente": "El cántico termina con el grito de guerra 'dale To', la abreviatura coloquial del Deportes Tolima que la hinchada repite como ritmo de tambor a lo largo del partido.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/we-have-to-win-5/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/we-wont-2/",
+      "contexto_fuente": "Los flacos no se van: lealtad eterna de la hinchada Pijao.",
+      "historia_fuente": "En la jerga del fútbol colombiano, 'los flacos' puede ser un apelativo cariñoso interno entre los propios hinchas, reforzando el sentido de hermandad dentro de la barra.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/we-wont-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/where-are-you-2/",
+      "contexto_fuente": "Provocación corta de Deportes Tolima.",
+      "historia_fuente": "Su eficacia está en la pregunta repetible: dónde están y por qué no se ven.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/where-are-you-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/deportes-tolima-chant-1/",
+      "contexto_fuente": "El grito de guerra más puro de los Pijaos.",
+      "historia_fuente": "El 'To' del cántico funciona como llamada corta y rítmica: una sílaba basta para que toda la tribuna entre al mismo pulso.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/deportes-tolima-chant-1/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/deportes-tolima-2/",
+      "contexto_fuente": "Los Pijaos alentando al campeón en el Murillo desde las gradas.",
+      "historia_fuente": "El Estadio Manuel Murillo Toro de Ibagué, popularmente llamado 'El Murillo', tiene capacidad para 28.100 espectadores y es el fortín donde el Deportes Tolima celebró sus títulos.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/deportes-tolima-2/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/the-main-group/",
+      "contexto_fuente": "De la cuna al cajón: el amor eterno de los Pijaos por el Tolima.",
+      "historia_fuente": "La frase 'desde la cuna hasta el cajón' que cierra el cántico resume la filosofía del hincha del Deportes Tolima: una lealtad que no termina nunca.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/the-main-group/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/everywhere-5/",
+      "contexto_fuente": "La hinchada del Tolima que sigue al equipo a todos lados.",
+      "historia_fuente": "El concepto del aguante es central en la cultura del fútbol colombiano: la hinchada que soporta, que viaja, que no abandona nunca al equipo sin importar los resultados.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/everywhere-5/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/junior-de-barranquilla-chants/borracho-y-loco/",
+      "contexto_fuente": "Amor eterno y empuje para Junior.",
+      "historia_fuente": "La letra mezcla amor permanente con pedido de entrega total en la cancha.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/junior-de-barranquilla-chants/borracho-y-loco/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/popular-will-get-down/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/go-go-red-devils/",
+      "contexto_fuente": "Apoyo viajero a los Diablos Rojos.",
+      "historia_fuente": "La letra usa Diablos Rojos, el apodo que aparece en la ficha del equipo.",
+      "fuente_contexto": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/go-go-red-devils/"
+    },
+    {
+      "url": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/deportivo-cali-chant-10/",
+      "contexto_fuente": "",
+      "historia_fuente": "",
+      "fuente_contexto": ""
+    }
+  ]
+}

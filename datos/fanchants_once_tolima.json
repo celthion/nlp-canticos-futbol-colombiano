@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "fuente": "FanChants",
+    "inventario": [
+      {
+        "club": "Once Caldas",
+        "total_declarado": 17,
+        "visibles_indice": 15,
+        "recuperados": 15
+      },
+      {
+        "club": "Deportes Tolima",
+        "total_declarado": 17,
+        "visibles_indice": 15,
+        "recuperados": 15
+      }
+    ],
+    "fallos": []
+  },
+  "registros": [
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Llegó la Hinchada",
+      "letra_original": "Llegan los \"Muchachos del Honor\", Llegó la hinchada, Esta hinchada que no para de alentar, ¡Vamos Once, vamos a ganar!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/fans-7/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "¡Vamos Once Caldas!",
+      "letra_original": "¡Y vamos, vamos, vamos Once Caldas! ¡Y vamos, vamos, vamos otra vez! Que el Holacausto te vino a ver, ¡Y dale, dale, que no podemos perder!... (Repetido...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/and-come-on-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Caldas Goleadoor",
+      "letra_original": "Caldo caldo caldo goleador, Caldo caldo caldo goleador, Caldooooo, Goleadoor... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/neighbourhood/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Y Vamos Once Caldas!",
+      "letra_original": "¡Once Caldas, y vamos Once Caldas! ¡Y vamos Once Caldas! ¡Y vamos Once Caaaldas!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/come-on-once-caldas/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Para Salir Campeón",
+      "letra_original": "Dale, dale, dale, oh, Hoy te venimos alentar, Para salir campeon, Tenemos que ganar, Dale, dale, dale, oh, Hoy te venimos alentar, Para salir campeon, Tenemos que ganar... (Repetido...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/ale-ale-ale-oh/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2021",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "A Todos Lados",
+      "letra_original": "Señores soy del Once y lo sigo a todos lados, Y no me importa de donde juegues te voy a alentar, Pasan los años, jugadores y los campeonatos, Y el sentimiento nunca va a terminar, Y vamos Once que no podes perder, Y vamos Once que tenes que ganar, Daría la vida por un campeonato, Otra vuelta más... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/everywhere-6/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Movete",
+      "letra_original": "Movete Blanco, movete, Movete dale move, Porque esta banda esta loca, Loca y no podemos perder... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/we-cant-lose-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2021",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Esta Noche",
+      "letra_original": "Pongan huevos, huevos Once Caldas, Pongan huevos, huevos sin cesar, Que esta noche cueste lo que cueste, Esta noche tenemos que ganar... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/put-your-balls-into-it-5/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Se Viene la Banda de Norte",
+      "letra_original": "eñores soy hincha del rojo lo llevo en el alma, La banda que en todo momento siempre te acompaña, Por eso le digo a la gente que es un sentimiento, Te sigo de loco y con todas mis fuerzas te aliento, Recuerdo que juntos pasamos muy duros momentos, Y tu no cambiaste por fuerte que fueran los tiempos, A los jugadores les pido que dejen la vida, Por que cuando muera te voy a alentar desde arriba, Se viene la banda de norte, Se viene la banda de norte, Se viene la banda de norte, La del Medellin....",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/moment/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Gracias a Dios",
+      "letra_original": "Gracias a Dios, Por los bellos momentos, Siempre serás, Nuestro único ejemplo, Y aunque te tengas que marchar, Nunca voy a olvidarte, Porque fui tan feliz... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/once-caldas-chant-1/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Dale, Dale, Oh",
+      "letra_original": "Ooooh, Dale, dale, oh, Dale, oh, Dale, oh, Dale, dale, oh... (Repetido...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/come-on-oh-10/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Local o Visitante",
+      "letra_original": "Te vi Campeón, Loco de la cabeza y tomando alcohol, A mí no me interesa en que cancha jugués, Local o visitante yo te vengo a ver, Ni la muerte nos va a separar, Des del cielo te voy alentar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/head-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Pongan Más Corazón",
+      "letra_original": "Pongan más huevo, Pongan más corazón, Como ponemos nosotros en el tablón, Dejamos todo, Solo por ver a esa camiseta, Pongan más huevo, Pongan más corazón, Esto es el once, Y hay que salir campeón, Vamos caldense, No le falles a toda tu gente, A ver si nos entendemos, Los jugadores y la popular, Ustedes matensen en la cancha, Que acá en la tribuna, Los vamos a alentar... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/put-more-heart/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Oh Vamos",
+      "letra_original": "Uoooo, Vamos los que vamos, Uoooo, Pongan huevos, Que ganamos... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/oh-come-on-once-come-on/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU020",
+      "equipo_mencionado_fuente": "Once Caldas",
+      "titulo_referencia": "Porque al Once lo Quiero",
+      "letra_original": "Porque al once lo quiero, Y lo vengo a alentar, Porque al once lo quiero, Y lo vengo a alentar, En las buenas, Y en las malas mucho más... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/once-caldas-chants/much-more/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Esta Noche Ganamos",
+      "letra_original": "Vamos vamos muchachos, Que esta noche ganamos, Haremos a que tenemos huevos, Para salir campeón, Por eso a todos los jugadores, Que salgan a la cancha, En todo momento, Venimos a alentar, A todas las canchas, A cualquier lugar, Vamos Vino Tinto, Tienes que ganar... (Se repite…)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tonight-we-win/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2020",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Soy del Vinotinto y Oro",
+      "letra_original": "Soy del Vinotinto, Si señor, Que loco estoy, Y con la Revo, Yo te quiero ver Campeón, De corazón, Toda esta hinchada va alentar, Vamo´a ganar, Con esta banda, Que te sigue a donde vas, Hay carnaval! (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/im-made-of-red-wine/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Queremos la Copa",
+      "letra_original": "Dale dale too, Queremos la copa, La revo está loca, Quiere un campeonato para festejar, Yo te voy a alentar como todos los años, Pongan huevos Tolima, No podés perder... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/2-100/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Yo Te Quiero Más",
+      "letra_original": "Vamos vamos Vinotinto, Vamos a ganar, Vamos vamos Vinotinto, Vamos a ganar, Yo te sigo a todas partes a donde vas, Cada día te quiero más...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/i-want-more-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Porque Te Quiero Tanto",
+      "letra_original": "Porque te quiero tanto te vine a ver, Porque te quiero tanto te vine a alentar, Sale Tolima de mi pasión, Te llevo adentro de mi corazón... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tolima-passion/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Esta Noche",
+      "letra_original": "Vamos, Vamos muchachos, Que esta noche, Tenemos que ganar... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/tonight-7/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Al Colima Lo Quiero",
+      "letra_original": "Al Colima lo quiero, Lo vengo a alentar, Al Colima lo quiero, Lo vengo a alentar, En las buenas, Y en las malas mucho mas... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/they-were-good/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2021",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Revolucion",
+      "letra_original": "Revolución, Revolución, El que no salte no esta en la revolución... (Se repite…)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/revolution-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Hoy Tenemos Que Ganar",
+      "letra_original": "Vino Tinto hoy tenemos que ganar, Yo te aliento con la banda musical, Alentar con sentimiento y corazón, Y dejar todo en la cancha ¡o campeón!, Y dale To, y dale To, y dale dale dale dale To, Dale To, dale dale dale To…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/we-have-to-win-5/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2021",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "No Se Van",
+      "letra_original": "Oooooh, No se van, No se van, No se van, Los flacos no se van... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/we-wont-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Dónde Estás",
+      "letra_original": "Y dónde están, Que no se ven, Los gobernantes del cartel...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/where-are-you-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "¡Dale To!",
+      "letra_original": "¡Ooooh oh campeón! ¡Oh campeón, oh campeón! ¡Dale, dale To!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/deportes-tolima-chant-1/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Alentando al Campeón",
+      "letra_original": "Mire, mire, qué tristeza, Mire, mire, qué dolor, Hoy estoy en el Murillo, Alentando al campeón... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/deportes-tolima-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "Desde Pequeño",
+      "letra_original": "Se me ha perdido el corazón, Por alentar al campeón, Sin condiciones, Y donde juegues voy a estar, Con esta banda musical, Haciendo la fiesta, Desde pequeño te vengo a ver, Desde pequeño me enamoré, Dale Tolima eres mi pasión, Desde la cuna hasta el cajón, Hasta el cajón... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/the-main-group/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU012",
+      "equipo_mencionado_fuente": "Deportes Tolima",
+      "titulo_referencia": "A Todos Lados",
+      "letra_original": "Esta es la hinchada que tiene aguante, La que te sigue siempre a todas partes, Esta es la hinchada que te viene a alentar, Esta es la hinchada que nunca va a fallar, La que te sigue siempre a todos lados, De la cabeza voy descontrolado, Aunque me falles nunca te dejaré, Toda la vida yo te voy a querer, ¡Dale Tooo, dale Tooo! ¡Dale Tooo, dale Tooo!...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/deportes-tolima-chants/everywhere-5/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    }
+  ]
+}

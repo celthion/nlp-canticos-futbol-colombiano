@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "fuente": "FanChants",
+    "club": "América de Cali",
+    "total_declarado": 3,
+    "recuperados": 3
+  },
+  "registros": [
+    {
+      "club_id": "CLU003",
+      "equipo_mencionado_fuente": "América de Cali",
+      "titulo_referencia": "Se Va a Caer la Popular",
+      "letra_original": "Una vez mas, Es el momento de esta banda loca te viene alentar, Una vez mas, El sentimiento de ser escarlata me hace delirar Vas a Morir Vas a Llorar Se va Caer La Popular...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/popular-will-get-down/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2014",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU003",
+      "equipo_mencionado_fuente": "América de Cali",
+      "titulo_referencia": "¡Vamos Diablos Rojos!",
+      "letra_original": "¡Vamos, vamos Diablos Rojos, vamos a ganar! ¡Vamos, vamos Diablos Rojos, vamos a ganar! Yo te sigo a todas partes a donde vas, Cada vez te quiero más...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/go-go-red-devils/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2014",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU003",
+      "equipo_mencionado_fuente": "América de Cali",
+      "titulo_referencia": "Esta Hinchada No Te Deja de Alentar",
+      "letra_original": "¡Vamos Los Rojos! Que tenemos que ganar, Esta hinchada no te deja de alentar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/america-de-cali-chants/deportivo-cali-chant-10/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    }
+  ]
+}

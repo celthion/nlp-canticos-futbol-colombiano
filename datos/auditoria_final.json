@@ -1,0 +1,62 @@
+{
+  "fecha_corte": "2026-09-01",
+  "registros_finales": 600,
+  "letras_vacias": 0,
+  "urls_vacias": 0,
+  "ids_unicos": true,
+  "clubes_con_canticos": 17,
+  "clubes_sin_canticos": [
+    "Águilas Doradas",
+    "Fortaleza CEIF",
+    "Llaneros FC"
+  ],
+  "contextos_conservados": 5,
+  "contextos_verificados": 4,
+  "revision_manual": 88,
+  "estados_verificacion": {
+    "aceptado": 512,
+    "requiere revisión: asociación con club": 3,
+    "requiere revisión: similitud": 67,
+    "requiere revisión: segmentación de fuente": 18
+  },
+  "fuentes_revisadas": 31,
+  "fuentes_excluidas": 6,
+  "errores_extraccion": 0,
+  "rumbos_retirado": true,
+  "cambios_identidad": [
+    {
+      "club_id": "CLU002",
+      "club_actual_2026": "Alianza FC / Alianza Valledupar FC",
+      "identidad_historica_en_fuente": "Alianza Petrolera",
+      "cambio_documentado": "DIMAYOR aprobó el cambio de sede a Valledupar el 24-01-2024; la ficha actual registra la entidad de Valledupar como fundada el 16-01-2024.",
+      "tratamiento_en_corpus": "Se integra por continuidad deportiva en CLU002, conservando Alianza Petrolera en equipo_mencionado_fuente. Los cánticos históricos y actuales se cuentan por separado.",
+      "canticos_identidad_historica": "1",
+      "canticos_identidad_actual": "0",
+      "fuentes": "REF020; REF071"
+    },
+    {
+      "club_id": "CLU015",
+      "club_actual_2026": "Internacional de Bogotá",
+      "identidad_historica_en_fuente": "La Equidad",
+      "cambio_documentado": "El club confirmó el 10-12-2025 que la entidad antes llamada Club Deportivo La Equidad adoptó el nombre Internacional de Bogotá tras el cambio de propietarios e identidad.",
+      "tratamiento_en_corpus": "Se integra por continuidad institucional en CLU015, conservando La Equidad en equipo_mencionado_fuente. Los cánticos históricos y actuales se cuentan por separado.",
+      "canticos_identidad_historica": "15",
+      "canticos_identidad_actual": "0",
+      "fuentes": "REF016; REF075"
+    }
+  ],
+  "duplicados_exactos_eliminados": 10,
+  "referencias_apa7": 75,
+  "hojas_excel": [
+    "Resumen",
+    "Clubes",
+    "Canticos",
+    "Cobertura",
+    "Duplicados exactos",
+    "Fuentes revisadas",
+    "Cambios de identidad",
+    "Bibliografia",
+    "Diccionario"
+  ],
+  "validacion_excel_estructura": "correcta"
+}

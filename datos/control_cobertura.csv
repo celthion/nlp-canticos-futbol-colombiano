@@ -1,0 +1,21 @@
+﻿club_id,nombre_corto,fanchants_total_declarado,fanchants_recuperados,barrabrava_recuperados,registros_finales,estado_primera_pasada,interpretacion
+CLU001,Águilas Doradas,0,0,0,0,sin letra localizada en la primera pasada,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU002,Alianza Valledupar,0,0,1,1,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU003,América de Cali,3,3,22,25,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU004,Deportivo Pasto,0,0,15,33,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU005,Atlético Bucaramanga,0,0,10,28,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU006,Atlético Nacional,42,41,40,81,cobertura FanChants parcial por fallo de paginación,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU007,Boyacá Chicó,0,0,4,4,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU008,Cúcuta Deportivo,0,0,6,6,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU009,Deportivo Cali,18,18,9,27,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU010,Independiente Medellín,17,17,49,66,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU011,Deportivo Pereira,0,0,5,5,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU012,Deportes Tolima,17,17,22,39,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU013,Fortaleza CEIF,0,0,0,0,sin letra localizada en la primera pasada,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU014,Independiente Santa Fe,31,31,93,124,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU015,Internacional de Bogotá,0,0,15,15,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU016,Jaguares de Córdoba,0,0,5,5,registros de otra fuente; FanChants no localizado,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU017,Junior FC,1,1,30,31,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU018,Llaneros FC,0,0,0,0,sin letra localizada en la primera pasada,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU019,Millonarios FC,31,31,42,73,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.
+CLU020,Once Caldas,17,17,20,37,cobertura FanChants completa en la fecha de consulta,Cobertura digital localizada; cero no equivale a ausencia de repertorio.

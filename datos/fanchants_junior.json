@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "fuente": "FanChants",
+    "club": "Junior FC",
+    "total_declarado": 1,
+    "recuperados": 1
+  },
+  "registros": [
+    {
+      "club_id": "CLU017",
+      "equipo_mencionado_fuente": "Junior FC",
+      "titulo_referencia": "Borracho y Loco",
+      "letra_original": "Y yo estoy aquí, Borracho y loco, Y mi corazón explota, hoy hay que ganar, Y yo te amaré, te amaré por siempre, Junior deja todo en la cancha, Que los del Frente te van a alentar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/junior-de-barranquilla-chants/borracho-y-loco/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    }
+  ]
+}

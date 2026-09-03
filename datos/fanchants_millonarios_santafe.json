@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "fuente": "FanChants",
+    "inventario": [
+      {
+        "club": "Millonarios FC",
+        "total_declarado": 31,
+        "visibles_indice": 15,
+        "recuperados": 15
+      },
+      {
+        "club": "Independiente Santa Fe",
+        "total_declarado": 31,
+        "visibles_indice": 15,
+        "recuperados": 15
+      }
+    ],
+    "fallos": []
+  },
+  "registros": [
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Millos Campeón",
+      "letra_original": "Uo uo uo, Sale Millos, Uo uo uo, Sale Millos... Sale campeón, Sale campeón, Sale campeón, Sale campeón, (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/oh-millos-are-leaving-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Vamos Millos Querido",
+      "letra_original": "Vamos, Millos querido, Esta campaña volveremos a estar contigo, Te alentaremos de corazón, Esta es tu hinchada que te quiere ver campeón… No me importa lo que digan, Lo que digan los demás, Yo te sigo a todas partes, Cada vez te quiero más…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/i-dont-care-about-what-they-say-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Yo No Se Lo Que Sentí",
+      "letra_original": "Con la melodía de: Hacelo por mi ‬(by Ataque 77)‬ Yo no se lo que sentí, La primera vez que vi, Al equipo millonarios, Jugando en el campin… Desde entonces yo te llevo, Dentro de mi corazón, No me importan lo que digan, El azul es mi pasión… Vamos millos pongan huevos, Que tenemos que ganar, Vamos vamos millonarios, Que queremos que queremos, Festejar una estrella mas, Dale embajador una estrella mas, Dale embajador una estrella mas…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/come-ambassador-one-more-star-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Soy del Millo",
+      "letra_original": "Soy del bando Millonario, Yo soy atorrante yo, Te quiero, Los Vagos me enseñaron a quererte, Alentarte siempre hasta la muerte, A los visitantes siempre les corremos, Tengo aguante porque yo te quiero, Soy del bando Millonario, Yo soy atorrante yo, Te quiero... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/im-millo-side-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Siempre Yo Te Sigo",
+      "letra_original": "Siempre yo te sigo, loco en la cabeza, Vamos Millonarios que tenemos aguante, No me importa nada voy a todas partes, Juegues donde juegues quiero dar la vida... Desde mi corazón, aunque ganes o pierdas, Esta hinchada siempre va a alentar, Porque juegan mal y duro, Vamos Millonarios Quiero dar la vuelta",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ill-always-follow-you-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Embajador Embajador",
+      "letra_original": "Embajador, Embajador, Embajador, Embajador... (Repite)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ambassador-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Desde Que Era Niño",
+      "letra_original": "Vamos Azules, Hay que ponerle más huevos, Con esa hinchada, Quiero salir campeón de nuevo, Desde chiquito yo te vengo a ver, Y me persigue la policía, No se hasta cuando me van a joder, No se dan cuenta que tú eres mi vida... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-2-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Jamás",
+      "letra_original": "Jamás jamás, He dejado de ser tuyo, Te lo digo con orgullo, De Millos nada más... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-1-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Esta Noche Cantare",
+      "letra_original": "Siguiendo a los millos yo llegaré lejos, Tan lejos como se pueda llegar, Ya llegan los bombos y los redoblantes, Ya llega el aguante de la capital, Copando, copando se llega de a poco, Estamos re locos hoy hay que ganar, Vamos millonarios que todo está bien, Esta noche cantaré te juro te alentaré, Vamos millonarios tienes que ganar, Esta noche hay que ganar no me vayas a fallar, Y vamos los millos quiero verte campeón vamos los millos oh oh...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/tonight-i-will-sing-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Todos Llenando la Popular",
+      "letra_original": "Todos saltando en el tablón, Todos aquí llenando la popular, Te pedimos un favor, Solo una estrella más… Y vamos Los Millos, Te queremos ver ganar, Y vamos Los Millos, Otro campeonato más…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/everybody-filling-cheap-seats/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Azules Somos los Duros",
+      "letra_original": "Azules somos los duros, Aquí estamos y no nos vamos, A 5 amigos los tiene presos, Y no los pueden, y no los pueden controlar… Yo soy de millos que puteria, Por eso canto de corazón, Al mas veces campeón. No soy del verde no soy del rojo Uno es muy marica muy marica Muy guevo MUY GUEVON Y ya lo ve, y ya lo ve, Esto es pal rojo que es marica y no nos cree, Y ya lo ve, y ya lo ve, Esto es pal rojo que nos mira por tv…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/blues-we-are-tough-ones/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2012",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Vamos por el Gol",
+      "letra_original": "Oh, vamos por el gol, Vamos por el gol, Vamos por el gol, Vamos por el gol... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/lets-go-goal-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Ole Ole Ole Millos",
+      "letra_original": "Ole, ole, ole, ole, Millos Millos, Ole, ole, ole, ole, Millos Millos, Ole, ole, ole, ole, Millos Millos, Ole, ole, ole, ole, Millos Millos... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/ole-ole-ole-millos-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2016",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Vamos a Todos Lados",
+      "letra_original": "Vamos Millonario, Te sigo a todas partes yo te quiero, Vamos a dar la vuelta todos juntos, Hay que poner un poco más de huevos, Más de huevos, Eso que dice la banda, Que somos borrachos, vagos, delincuentes, No le damos bola, vamos a todos lados, Yo quiero al equipo, Estoy descontrolado... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-4-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU019",
+      "equipo_mencionado_fuente": "Millonarios FC",
+      "titulo_referencia": "Por Eso Canto de Corazón",
+      "letra_original": "Por eso canto de corazón, Tú serás siempre campeón, No soy del verde ni de los rojos, Uno es marica muy marica, Otro huevón muy huevón, Soy más veces campeón, Y yaloe y yaloe, Esta es para el rojo que nos mira por TV, Y yaloe y yaloe, El rojo hijo de p*ta se va para la B, Azules somos los duros, Aquí llegamos y no nos vamos, A cinco amigos los tienen presos, Y no los pueden y no los pueden controlar...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/millonarios-futbol-club-chants/millonarios-chant-8-mfc/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "¡Vamos León!",
+      "letra_original": "¡Vamos León! ¡Vamos, vamos, vamos León! ¡Vamos, vamos, vamos León! ¡Locura de mi corazón!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-come-on-come-on-4/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Todo los Domingos Llega al Nemesio",
+      "letra_original": "Todos los domingos llega al Nemesio, El primer campeón, la fuerza de un pueblo, Y en la lateral se escucha el aliento, Ya llegó la banda, vamos el Expreso, Nadie se imagina lo que yo siento, Más que una pasión es un sentimiento, Nadie se imagina porque al Expreso, Lo sigo alentando, es amor eterno, Esta es toda la banda del primer campeón, Va descontrolada, Vamos, que toda esta gente siempre está alentando, Rojo vaya al frente, Y sólo le pido a Dios, Que haga que el Expreso sea otra vez primero, Para salir campeón…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-1/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "El Que No Salte",
+      "letra_original": "Poropopo, El que no salte, No es del León, Poropopo, El que no salte, No es del León... (Repeated...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/popo-8/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Santa Fe Es Alegría",
+      "letra_original": "Todas las campañas que viví, Todas las canchas donde te seguí, Cuántos goles por ti celebramos, Cuántas veces te alentamos desde que te conocí, Siempre te voy a alentar, Voy a seguirte por donde vayas, Vamos pongan huevos que ganamos, Así todos celebramos, Yo la vuelta quiero dar, Santa Fe es alegría, (¡alegría!) Santa Fe es pasión, Pongan huevo Albirrojos, Quiero verte otra vez campeón, Yo daría mi vida por esta pasión, Pongan huevo Albirrojos, Quiero verte otra vez campeón...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/forever-3/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Queremos la Copa",
+      "letra_original": "Vamos Santa Fe, Queremos la copa, La banda está loca León, Quiero verte campeón, Yo te voy a alentar, Como todos los años, Esta es mi ilusión la de verte campeón, Leóóóón... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/we-want-the-cup-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2018",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Fuego Interior",
+      "letra_original": "¡Vamos Santa Fe, fuego interior! Ponés al rojo vivo mi corazon, Vamos Santafesote que hay que jugar bonito para ganarles hoy... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-santa-fe/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "¡Vamos los Leones!",
+      "letra_original": "¡Los leones! ¡Y vamos Los Leones! ¡Y vamos Los Leones! ¡Y vamos Los Leones!... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-los-leones/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2017",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Albirojo Soy con la Guardia a Todos Lados Voy",
+      "letra_original": "Albirojo soy con la guardia a todos lados voy, Albirojo soy con la guardia a todos lados voy, El rojo es pasión locura y corazón, Ni la muerte nos va a separar, Hoy hay que ganar, No podemos perder, Y campeones salir otra vez... (Se repite...)",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-4/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "La Gloria No Se Fue de Santa Fe",
+      "letra_original": "El Rojo es la locura es la pasión, Al Rojo yo lo quiero ver campeón, Gallina preparate para ver, La gloria no se fue de Santa Fe, Vamos león, Vamos a ganar, Porque la vuelta vamos a dar, Hoy vamos hacer, De Bogotá, Todo el distrito Cardenal...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/heart-20/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Independiente",
+      "letra_original": "Independiente, Independiente, Independiente, Independiente, Independiente, Independiente, Independiente Santa Fe. Dale, Leon, Dale, Leon, Dale, Leon, Dale, Leon, Dale, Leon, Dale, Leon, Dale, Leon, Dale, Campeón, Dale, Campeón, Dale, Campeón, Dale, Campeón, Dale, Campeón, Dale, Campeón, Dale, Campeón, Dale, Campeón, Dale, Campeón...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/independiente-santa-fe-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Soy del Rojo el Expreso Bogotano",
+      "letra_original": "Señores soy del rojo el expreso bogotano, Por eso juegues donde juegues te voy a alentar, Pasan los años, jugadores, la hinchada sigue igual, El sentimiento nunca va a terminar, Desde pequeño yo te vengo a ver, Desde pequeño yo te vengo a alentar, Daría la vida por un campeonato, Una vuelta más...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-2/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Pideme la Luna",
+      "letra_original": "Vamos El Expreso, Orgullo bogotano, Ustedes pongan huevo, Que nosotros en las buenas, Y en las malas te alentamos, Porque te quiero, te quiero León, Porque te amo con loca pasión, Un sentimiento sin explicación, Porque yo te llevo en el corazón…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-6/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "Que Sientes",
+      "letra_original": "Te vine a alentar, Dale dale rojo, Yo te sigo a todos lados, Te quiero ver campeón, Porque sé que siempre, Que siempre estoy con el León…",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-8/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "¡Vamos Albirrojo!",
+      "letra_original": "¡Vamos albirrojo! ¡Vamos albirrojo, vamos albirojo, vamos albirrojo! ¡Vamos albirrojo! Nadie comprende que este amor se sienta asi, Que venga a verte, Y aunque me muera de dolor yo estoy con vos, Hasta la muerte, Ser albirrojo es un honor una pasión, Un sentimiento, Desde pequeño yo me enamoré de vos, Por eso vengo, ¡Vamos León! ¡Vamos, vamos, vamos, vamos León! ¡Vamos, vamos, vamos, vamos León! ¡Vamos, vamos el León de mi corazón!...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/come-on-come-on-15/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    },
+    {
+      "club_id": "CLU014",
+      "equipo_mencionado_fuente": "Independiente Santa Fe",
+      "titulo_referencia": "De la Cuna",
+      "letra_original": "De la cuna yo soy del expreso, Este amor no se puede explicar, Es por eso albi-rojo querido, Que la vuelta yo la quiero dar, Dejen todo en la cancha muchachos, Y seguro que salimos campeón, Porque se, Que siempre, Que siempre estoy con el León...",
+      "fuente": "FanChants",
+      "url": "https://www.fanchants.com/es/football-songs/club-santa-fe-chants/santa-fe-chant-3/",
+      "fecha_consulta": "2026-09-01",
+      "fecha_publicacion": "2013",
+      "metodo_adquisicion": "Copiado de texto público mediante extracción reproducible"
+    }
+  ]
+}

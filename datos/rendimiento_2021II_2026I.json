@@ -1,0 +1,1003 @@
+{
+  "metadata": {
+    "periodo": "2021-II a 2026-I",
+    "torneos": 10,
+    "regla": "Primeros ocho de la tabla de primera fase; denominador = torneos disputados por el club.",
+    "continuidades": "Alianza Petrolera→Alianza FC; La Equidad→Internacional de Bogotá.",
+    "equipos_no_mapeados_por_no_pertenecer_al_universo_2026": [
+      "Atlético Huila",
+      "Cortuluá",
+      "Deportes Quindío",
+      "Envigado F. C.",
+      "Patriotas",
+      "Unión Magdalena"
+    ]
+  },
+  "resumen_clubes": {
+    "CLU001": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2022-II",
+        "2023-I",
+        "2023-II"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 3,
+      "tasa_clasificacion": 0.3
+    },
+    "CLU002": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2023-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 2,
+      "tasa_clasificacion": 0.2
+    },
+    "CLU003": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 8,
+      "tasa_clasificacion": 0.8
+    },
+    "CLU004": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2022-II",
+        "2023-I",
+        "2024-II",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 4,
+      "tasa_clasificacion": 0.4
+    },
+    "CLU005": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2022-I",
+        "2024-I",
+        "2025-II"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 3,
+      "tasa_clasificacion": 0.3
+    },
+    "CLU006": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2022-I",
+        "2023-I",
+        "2023-II",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 8,
+      "tasa_clasificacion": 0.8
+    },
+    "CLU007": {
+      "torneos": [
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2023-I"
+      ],
+      "torneos_disputados_periodo": 7,
+      "clasificaciones_fase_final_periodo": 1,
+      "tasa_clasificacion": 0.14285714285714285
+    },
+    "CLU008": {
+      "torneos": [
+        "2026-I"
+      ],
+      "clasificaciones": [],
+      "torneos_disputados_periodo": 1,
+      "clasificaciones_fase_final_periodo": 0,
+      "tasa_clasificacion": 0.0
+    },
+    "CLU009": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2023-II"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 2,
+      "tasa_clasificacion": 0.2
+    },
+    "CLU010": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2025-I",
+        "2025-II"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 6,
+      "tasa_clasificacion": 0.6
+    },
+    "CLU011": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2022-II",
+        "2024-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 3,
+      "tasa_clasificacion": 0.3
+    },
+    "CLU012": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2022-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 8,
+      "tasa_clasificacion": 0.8
+    },
+    "CLU013": {
+      "torneos": [
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2025-II"
+      ],
+      "torneos_disputados_periodo": 5,
+      "clasificaciones_fase_final_periodo": 1,
+      "tasa_clasificacion": 0.2
+    },
+    "CLU014": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2022-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 6,
+      "tasa_clasificacion": 0.6
+    },
+    "CLU015": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2022-I",
+        "2024-I",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 3,
+      "tasa_clasificacion": 0.3
+    },
+    "CLU016": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2026-I"
+      ],
+      "clasificaciones": [],
+      "torneos_disputados_periodo": 8,
+      "clasificaciones_fase_final_periodo": 0,
+      "tasa_clasificacion": 0.0
+    },
+    "CLU017": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 9,
+      "tasa_clasificacion": 0.9
+    },
+    "CLU018": {
+      "torneos": [
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [],
+      "torneos_disputados_periodo": 3,
+      "clasificaciones_fase_final_periodo": 0,
+      "tasa_clasificacion": 0.0
+    },
+    "CLU019": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 8,
+      "tasa_clasificacion": 0.8
+    },
+    "CLU020": {
+      "torneos": [
+        "2021-II",
+        "2022-I",
+        "2022-II",
+        "2023-I",
+        "2023-II",
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2025-II",
+        "2026-I"
+      ],
+      "clasificaciones": [
+        "2024-I",
+        "2024-II",
+        "2025-I",
+        "2026-I"
+      ],
+      "torneos_disputados_periodo": 10,
+      "clasificaciones_fase_final_periodo": 4,
+      "tasa_clasificacion": 0.4
+    }
+  },
+  "detalle_torneos": [
+    {
+      "torneo": "2021-II",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Finalizaci%C3%B3n_2021_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU006",
+        "CLU019",
+        "CLU012",
+        "CLU017",
+        "CLU011",
+        "CLU002",
+        "CLU009",
+        "CLU003",
+        "CLU005",
+        "CLU016",
+        "CLU010",
+        "CLU001",
+        "CLU014",
+        "CLU015",
+        "CLU020",
+        "CLU004"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU006",
+        "CLU019",
+        "CLU012",
+        "CLU017",
+        "CLU011",
+        "CLU002",
+        "CLU009",
+        "CLU003"
+      ],
+      "equipos_tabla_fuente": [
+        "Atlético Nacional",
+        "Millonarios",
+        "Deportes Tolima",
+        "Junior",
+        "Deportivo Pereira",
+        "Alianza Petrolera",
+        "Deportivo Cali",
+        "América de Cali",
+        "Envigado F. C.",
+        "Atlético Bucaramanga",
+        "Jaguares",
+        "Independiente Medellín",
+        "Águilas Doradas",
+        "Santa Fe",
+        "La Equidad",
+        "Deportes Quindío",
+        "Once Caldas",
+        "Patriotas",
+        "Deportivo Pasto",
+        "Atlético Huila"
+      ]
+    },
+    {
+      "torneo": "2022-I",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Apertura_2022_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU019",
+        "CLU012",
+        "CLU006",
+        "CLU010",
+        "CLU017",
+        "CLU015",
+        "CLU005",
+        "CLU002",
+        "CLU014",
+        "CLU016",
+        "CLU020",
+        "CLU001",
+        "CLU011",
+        "CLU003",
+        "CLU004",
+        "CLU009"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU019",
+        "CLU012",
+        "CLU006",
+        "CLU010",
+        "CLU017",
+        "CLU015",
+        "CLU005"
+      ],
+      "equipos_tabla_fuente": [
+        "Millonarios",
+        "Deportes Tolima",
+        "Atlético Nacional",
+        "Independiente Medellín",
+        "Junior",
+        "Envigado F. C.",
+        "La Equidad",
+        "Atlético Bucaramanga",
+        "Alianza Petrolera",
+        "Santa Fe",
+        "Jaguares",
+        "Once Caldas",
+        "Águilas Doradas",
+        "Deportivo Pereira",
+        "América de Cali",
+        "Deportivo Pasto",
+        "Patriotas",
+        "Cortuluá",
+        "Deportivo Cali",
+        "Unión Magdalena"
+      ]
+    },
+    {
+      "torneo": "2022-II",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Finalizaci%C3%B3n_2022_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU014",
+        "CLU001",
+        "CLU010",
+        "CLU019",
+        "CLU011",
+        "CLU004",
+        "CLU003",
+        "CLU017",
+        "CLU006",
+        "CLU020",
+        "CLU005",
+        "CLU015",
+        "CLU012",
+        "CLU016",
+        "CLU002",
+        "CLU009"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU014",
+        "CLU001",
+        "CLU010",
+        "CLU019",
+        "CLU011",
+        "CLU004",
+        "CLU003",
+        "CLU017"
+      ],
+      "equipos_tabla_fuente": [
+        "Santa Fe",
+        "Águilas Doradas",
+        "Independiente Medellín",
+        "Millonarios",
+        "Deportivo Pereira",
+        "Deportivo Pasto",
+        "América de Cali",
+        "Junior",
+        "Atlético Nacional",
+        "Once Caldas",
+        "Atlético Bucaramanga",
+        "Unión Magdalena",
+        "La Equidad",
+        "Deportes Tolima",
+        "Envigado F. C.",
+        "Jaguares",
+        "Alianza Petrolera",
+        "Deportivo Cali",
+        "Patriotas",
+        "Cortuluá"
+      ]
+    },
+    {
+      "torneo": "2023-I",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Apertura_2023_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU001",
+        "CLU019",
+        "CLU006",
+        "CLU003",
+        "CLU007",
+        "CLU002",
+        "CLU010",
+        "CLU004",
+        "CLU017",
+        "CLU014",
+        "CLU015",
+        "CLU011",
+        "CLU012",
+        "CLU009",
+        "CLU005",
+        "CLU020",
+        "CLU016"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU001",
+        "CLU019",
+        "CLU006",
+        "CLU003",
+        "CLU007",
+        "CLU002",
+        "CLU010",
+        "CLU004"
+      ],
+      "equipos_tabla_fuente": [
+        "Águilas Doradas",
+        "Millonarios",
+        "Atlético Nacional",
+        "América de Cali",
+        "Boyacá Chicó",
+        "Alianza Petrolera",
+        "Independiente Medellín",
+        "Deportivo Pasto",
+        "Junior",
+        "Santa Fe",
+        "La Equidad",
+        "Deportivo Pereira",
+        "Deportes Tolima",
+        "Deportivo Cali",
+        "Atlético Bucaramanga",
+        "Envigado F. C.",
+        "Once Caldas",
+        "Jaguares",
+        "Unión Magdalena",
+        "Atlético Huila"
+      ]
+    },
+    {
+      "torneo": "2023-II",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Finalizaci%C3%B3n_2023_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU001",
+        "CLU010",
+        "CLU003",
+        "CLU012",
+        "CLU006",
+        "CLU017",
+        "CLU019",
+        "CLU009",
+        "CLU002",
+        "CLU015",
+        "CLU005",
+        "CLU004",
+        "CLU014",
+        "CLU020",
+        "CLU011",
+        "CLU007",
+        "CLU016"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU001",
+        "CLU010",
+        "CLU003",
+        "CLU012",
+        "CLU006",
+        "CLU017",
+        "CLU019",
+        "CLU009"
+      ],
+      "equipos_tabla_fuente": [
+        "Águilas Doradas",
+        "Independiente Medellín",
+        "América de Cali",
+        "Deportes Tolima",
+        "Atlético Nacional",
+        "Junior",
+        "Millonarios",
+        "Deportivo Cali",
+        "Alianza Petrolera",
+        "La Equidad",
+        "Atlético Bucaramanga",
+        "Deportivo Pasto",
+        "Santa Fe",
+        "Once Caldas",
+        "Unión Magdalena",
+        "Atlético Huila",
+        "Deportivo Pereira",
+        "Boyacá Chicó",
+        "Jaguares",
+        "Envigado F. C."
+      ]
+    },
+    {
+      "torneo": "2024-I",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Apertura_2024_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU005",
+        "CLU012",
+        "CLU011",
+        "CLU014",
+        "CLU015",
+        "CLU019",
+        "CLU017",
+        "CLU020",
+        "CLU010",
+        "CLU003",
+        "CLU001",
+        "CLU006",
+        "CLU013",
+        "CLU016",
+        "CLU009",
+        "CLU004",
+        "CLU007",
+        "CLU002"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU005",
+        "CLU012",
+        "CLU011",
+        "CLU014",
+        "CLU015",
+        "CLU019",
+        "CLU017",
+        "CLU020"
+      ],
+      "equipos_tabla_fuente": [
+        "Atlético Bucaramanga",
+        "Deportes Tolima",
+        "Deportivo Pereira",
+        "Santa Fe",
+        "La Equidad",
+        "Millonarios",
+        "Junior",
+        "Once Caldas",
+        "Independiente Medellín",
+        "América de Cali",
+        "Águilas Doradas",
+        "Atlético Nacional",
+        "Fortaleza CEIF",
+        "Jaguares",
+        "Deportivo Cali",
+        "Deportivo Pasto",
+        "Boyacá Chicó",
+        "Envigado F. C.",
+        "Alianza F. C.",
+        "Patriotas"
+      ]
+    },
+    {
+      "torneo": "2024-II",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Finalizaci%C3%B3n_2024_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU014",
+        "CLU003",
+        "CLU019",
+        "CLU012",
+        "CLU006",
+        "CLU017",
+        "CLU020",
+        "CLU004",
+        "CLU010",
+        "CLU005",
+        "CLU013",
+        "CLU011",
+        "CLU015",
+        "CLU001",
+        "CLU002",
+        "CLU009",
+        "CLU016",
+        "CLU007"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU014",
+        "CLU003",
+        "CLU019",
+        "CLU012",
+        "CLU006",
+        "CLU017",
+        "CLU020",
+        "CLU004"
+      ],
+      "equipos_tabla_fuente": [
+        "Santa Fe",
+        "América de Cali",
+        "Millonarios",
+        "Deportes Tolima",
+        "Atlético Nacional",
+        "Junior",
+        "Once Caldas",
+        "Deportivo Pasto",
+        "Independiente Medellín",
+        "Atlético Bucaramanga",
+        "Fortaleza CEIF",
+        "Deportivo Pereira",
+        "La Equidad",
+        "Águilas Doradas",
+        "Patriotas",
+        "Alianza F. C.",
+        "Deportivo Cali",
+        "Jaguares",
+        "Boyacá Chicó",
+        "Envigado F. C."
+      ]
+    },
+    {
+      "torneo": "2025-I",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Apertura_2025_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU003",
+        "CLU019",
+        "CLU017",
+        "CLU012",
+        "CLU006",
+        "CLU014",
+        "CLU020",
+        "CLU010",
+        "CLU005",
+        "CLU002",
+        "CLU004",
+        "CLU011",
+        "CLU009",
+        "CLU001",
+        "CLU018",
+        "CLU013",
+        "CLU007",
+        "CLU015"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU003",
+        "CLU019",
+        "CLU017",
+        "CLU012",
+        "CLU006",
+        "CLU014",
+        "CLU020",
+        "CLU010"
+      ],
+      "equipos_tabla_fuente": [
+        "América de Cali",
+        "Millonarios",
+        "Junior",
+        "Deportes Tolima",
+        "Atlético Nacional",
+        "Santa Fe",
+        "Once Caldas",
+        "Independiente Medellín",
+        "Atlético Bucaramanga",
+        "Alianza Valledupar",
+        "Deportivo Pasto",
+        "Deportivo Pereira",
+        "Deportivo Cali",
+        "Águilas Doradas",
+        "Llaneros",
+        "Fortaleza CEIF",
+        "Boyacá Chicó",
+        "Envigado F. C.",
+        "Unión Magdalena",
+        "La Equidad"
+      ]
+    },
+    {
+      "torneo": "2025-II",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Finalizaci%C3%B3n_2025_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU010",
+        "CLU012",
+        "CLU006",
+        "CLU005",
+        "CLU017",
+        "CLU013",
+        "CLU014",
+        "CLU003",
+        "CLU002",
+        "CLU001",
+        "CLU020",
+        "CLU019",
+        "CLU018",
+        "CLU009",
+        "CLU004",
+        "CLU011",
+        "CLU007",
+        "CLU015"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU010",
+        "CLU012",
+        "CLU006",
+        "CLU005",
+        "CLU017",
+        "CLU013",
+        "CLU014",
+        "CLU003"
+      ],
+      "equipos_tabla_fuente": [
+        "Independiente Medellín",
+        "Deportes Tolima",
+        "Atlético Nacional",
+        "Atlético Bucaramanga",
+        "Junior",
+        "Fortaleza CEIF",
+        "Santa Fe",
+        "América de Cali",
+        "Alianza Valledupar",
+        "Águilas Doradas",
+        "Once Caldas",
+        "Millonarios",
+        "Llaneros",
+        "Deportivo Cali",
+        "Unión Magdalena",
+        "Envigado F. C.",
+        "Deportivo Pasto",
+        "Deportivo Pereira",
+        "Boyacá Chicó",
+        "La Equidad"
+      ]
+    },
+    {
+      "torneo": "2026-I",
+      "url": "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Colombia)",
+      "participantes_actuales_2026": [
+        "CLU006",
+        "CLU017",
+        "CLU004",
+        "CLU003",
+        "CLU020",
+        "CLU012",
+        "CLU014",
+        "CLU015",
+        "CLU009",
+        "CLU019",
+        "CLU010",
+        "CLU001",
+        "CLU005",
+        "CLU018",
+        "CLU013",
+        "CLU016",
+        "CLU002",
+        "CLU007",
+        "CLU008",
+        "CLU011"
+      ],
+      "clasificados_actuales_2026": [
+        "CLU006",
+        "CLU017",
+        "CLU004",
+        "CLU003",
+        "CLU020",
+        "CLU012",
+        "CLU014",
+        "CLU015"
+      ],
+      "equipos_tabla_fuente": [
+        "Atlético Nacional",
+        "Junior",
+        "Deportivo Pasto",
+        "América de Cali",
+        "Once Caldas",
+        "Deportes Tolima",
+        "Santa Fe",
+        "Internacional de Bogotá",
+        "Deportivo Cali",
+        "Millonarios",
+        "Independiente Medellín",
+        "Águilas Doradas",
+        "Atlético Bucaramanga",
+        "Llaneros",
+        "Fortaleza",
+        "Jaguares",
+        "Alianza Valledupar",
+        "Boyacá Chicó",
+        "Cúcuta Deportivo",
+        "Deportivo Pereira"
+      ]
+    }
+  ]
+}

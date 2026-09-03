@@ -1,0 +1,32 @@
+﻿url,club_id,equipo_fuente,decision,motivo,enlaces_letra,recuperados,errores
+https://barrabrava.net/millonarios/comandos-azules/letras/,CLU019,Millonarios,incluir,Club de Liga A 2026,30,30,0
+https://barrabrava.net/america-de-cali/baron-rojo-sur/letras/,CLU003,América de Cali,incluir,Club de Liga A 2026,20,20,0
+https://barrabrava.net/deportivo-cali/frente-radical-verdiblanco/letras/,CLU009,Deportivo Cali,incluir,Club de Liga A 2026,9,9,0
+https://barrabrava.net/atletico-nacional/los-del-sur/letras/,CLU006,Atlético Nacional,incluir,Club de Liga A 2026,39,39,0
+https://barrabrava.net/tolima/revolucion-vinotinto-sur/letras/,CLU012,Deportes Tolima,incluir,Club de Liga A 2026,22,22,0
+https://barrabrava.net/independiente-medellin/rexixtenxia-norte/letras/,CLU010,Independiente Medellín,incluir,"Club de Liga A 2026; fuente ya usada, se reconsulta para completar el contexto",49,49,0
+https://barrabrava.net/union-magdalena/garra-samaria-norte/letras/,,Unión Magdalena,excluir,No participa en Liga A 2026,0,0,0
+https://barrabrava.net/real-cartagena/rebelion-auriverde-norte/letras/,,Real Cartagena,excluir,No participa en Liga A 2026,0,0,0
+https://barrabrava.net/patriotas-boyaca/aguante-sur-patriotas/letras/,,Patriotas Boyacá,excluir,No participa en Liga A 2026,0,0,0
+https://barrabrava.net/deportivo-pasto/attake-massivo/letras/,CLU004,Deportivo Pasto,incluir,Club de Liga A 2026,2,2,0
+https://barrabrava.net/millonarios/blue-rain/letras/,CLU019,Millonarios,incluir,Club de Liga A 2026,14,14,0
+https://barrabrava.net/envigado/pasion-naranja/letras/,,Envigado,excluir,No participa en Liga A 2026,0,0,0
+https://barrabrava.net/jaguares-de-cordoba/los-de-siempre/letras/,CLU016,Jaguares de Córdoba,incluir,Club de Liga A 2026,5,5,0
+https://barrabrava.net/alianza-petrolera/dominio-aurinegro/letras/,CLU002,Alianza Petrolera,incluir_continuidad,Identidad histórica incorporada al actual Alianza FC; conservar el nombre publicado y documentar el cambio por separado,1,1,0
+https://barrabrava.net/atletico-huila/alta-tension-sur/letras/,,Atlético Huila,excluir,No participa en Liga A 2026,0,0,0
+https://barrabrava.net/la-equidad/distrito-asegurador/letras/,CLU015,La Equidad,incluir_continuidad,Identidad histórica incorporada al actual Internacional de Bogotá; conservar el nombre publicado y documentar el cambio por separado,15,15,0
+https://barrabrava.net/pereira/lobo-sur/letras/,CLU011,Deportivo Pereira,incluir,Club de Liga A 2026,5,5,0
+https://barrabrava.net/junior-de-barranquilla/frente-rojiblanco-sur/letras/,CLU017,Junior de Barranquilla,incluir,Club de Liga A 2026,17,17,0
+https://barrabrava.net/america-de-cali/disturbio-rojo-bogota/letras/,CLU003,América de Cali,incluir,Club de Liga A 2026,2,2,0
+https://barrabrava.net/independiente-santa-fe/la-guardia-albi-roja-sur/letras/,CLU014,Independiente Santa Fe,incluir,Club de Liga A 2026,97,97,0
+https://barrabrava.net/cucuta/la-banda-del-indio/letras/,CLU008,Cúcuta Deportivo,incluir,Club de Liga A 2026,6,6,0
+https://barrabrava.net/junior-de-barranquilla/la-banda-de-los-kuervos/letras/,CLU017,Junior de Barranquilla,incluir,Club de Liga A 2026,14,14,0
+https://barrabrava.net/once-caldas/holocausto-norte/letras/,CLU020,Once Caldas,incluir,Club de Liga A 2026,20,20,0
+https://barrabrava.net/deportivo-pasto/la-banda-tricolor/letras/,CLU004,Deportivo Pasto,incluir,Club de Liga A 2026,13,13,0
+https://barrabrava.net/atletico-bucaramanga/fortaleza-leoparda-sur/letras/,CLU005,Atlético Bucaramanga,incluir,Club de Liga A 2026,11,11,0
+https://barrabrava.net/deportes-quindio/artilleria-verde-sur/letras/,,Deportes Quindío,excluir,No participa en Liga A 2026,0,0,0
+https://barrabrava.net/boyaca-chico/la-mancha-ajedrezada/letras/,CLU007,Boyacá Chicó,incluir,Club de Liga A 2026,4,4,0
+https://barrabrava.net/atletico-nacional/nacion-verdolaga/letras/,CLU006,Atlético Nacional,incluir,Club de Liga A 2026,1,1,0
+https://barrabrava.net/once-caldas/brigada-11/letras/,CLU020,Once Caldas,incluir,Club de Liga A 2026,0,0,0
+https://tricoloresbandapasto.blogspot.com/p/cantos.html,CLU004,Deportivo Pasto,incluir_especial,Página pública del repertorio de Attake Massivo y La Banda Tricolor,19,19,0
+http://www.fortaleza.4mg.com/canticos.htm,CLU005,Atlético Bucaramanga,incluir_especial,"Sitio histórico de Fortaleza Leoparda; las letras nombran Bucaramanga y al leopardo, no Fortaleza CEIF",18,18,0
